@@ -9,4 +9,3 @@ C:\Users\mondalk\Documents\Visual Studio 2015\Projects\DjangoWebProject1\DjangoW
 C:\Users\mondalk\Documents\Visual Studio 2015\Projects\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe
 C:\Users\mondalk\Documents\Visual Studio 2015\Projects\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe.config
 C:\Users\mondalk\Documents\Visual Studio 2015\Projects\DjangoWebProject1\DjangoWebProject1\bin\wfastcgi.py
-C:\Users\mondalk\Documents\Visual Studio 2015\Projects\DjangoWebProject1\DjangoWebProject1\obj\Debug\web.debug.config
